@@ -11,14 +11,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_27" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -56,12 +54,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_27" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-26T03:28:21.005Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
@@ -204,7 +204,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601094846934</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final stage changes to GitHub">
+      <created>1604322959455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604322959455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="final stage changes to GitHub">
+      <created>1604323463380</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604323463380</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final stage changes to GitHub">
+      <created>1604323497619</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604323497619</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final stage changes to GitHub">
+      <created>1604323549024</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604323549024</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +240,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -223,9 +253,14 @@
     <MESSAGE value="Step 3" />
     <MESSAGE value="Step 4" />
     <MESSAGE value="final stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="final stage" />
+    <MESSAGE value="final stage changes to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="final stage changes to GitHub" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="174" y="0" key="#Notifications" timestamp="1604323624041">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="174" y="0" key="#Notifications/0.0.1366.734@0.0.1366.734" timestamp="1604323624041" />
     <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601095042259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -234,9 +269,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="516" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083393705" />
-    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1601095929071">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="180" y="0" key="CommitChangelistDialog2" timestamp="1604323548545">
+      <screen x="0" y="0" width="1366" height="734" />
     </state>
+    <state x="180" y="0" key="CommitChangelistDialog2/0.0.1366.734@0.0.1366.734" timestamp="1604323548545" />
     <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601095929071" />
     <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1601089566863">
       <screen x="0" y="0" width="1366" height="768" />
@@ -254,10 +290,18 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601089566863" />
+    <state x="159" y="45" key="IDE.errors.dialog" timestamp="1604325703465">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="159" y="45" key="IDE.errors.dialog/0.0.1366.734@0.0.1366.734" timestamp="1604325703465" />
     <state x="174" y="6" key="SettingsEditor" timestamp="1601090884295">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="174" y="6" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601090884295" />
+    <state x="174" y="27" key="Vcs.Push.Dialog.v2" timestamp="1604323605038">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="174" y="27" key="Vcs.Push.Dialog.v2/0.0.1366.734@0.0.1366.734" timestamp="1604323605038" />
     <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601088779049">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
